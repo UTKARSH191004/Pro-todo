@@ -1,2 +1,35 @@
-# Pro-todo
-A responsive and animated Todo List web app using HTML, CSS, and JavaScript. Features include dark mode, priority tagging, filtering, task animations, and local storage. Stylish UI with slide-in tasks, hover effects, and a sand clock animation. No setup needed—open and use!
+# 📝 Animated Todo List Web App
+
+A responsive and animated Todo List built using HTML, CSS, and JavaScript. It features dark mode, priority tagging, filtering, task persistence, and smooth CSS animations.
+
+## ✨ Features
+
+- Add, edit, delete tasks
+- Priority tags (Low, Medium, High)
+- Filter tasks by priority
+- Mark tasks as completed
+- Dark mode with toggle
+- Local storage support
+- Animations: slide-in, hover glow, sand clock tilt, etc.
+- Mobile responsive UI
+
+## 🚀 How to Use
+
+1. Clone this repo or download the HTML file
+2. Open `Professional_Todo_List.html` in your browser
+3. Start adding tasks!
+
+## 📸 Preview
+
+*(Add screenshots here if available)*
+
+## 🛠 Tech Stack
+
+- HTML5
+- CSS3 (Flexbox, Keyframes, Responsive)
+- JavaScript (Vanilla)
+- Font Awesome
+
+## 📄 License
+
+This project is licensed under the MIT License.
