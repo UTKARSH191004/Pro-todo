@@ -30,6 +30,3 @@ A responsive and animated Todo List built using HTML, CSS, and JavaScript. It fe
 - JavaScript (Vanilla)
 - Font Awesome
 
-## 📄 License
-
-This project is licensed under the MIT License.
