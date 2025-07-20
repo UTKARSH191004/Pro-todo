@@ -16,7 +16,7 @@ A responsive and animated Todo List built using HTML, CSS, and JavaScript. It fe
 ## 🚀 How to Use
 
 1. Clone this repo or download the HTML file
-2. Open `Professional_Todo_List.html` in your browser
+2. Open `index.html` in your browser
 3. Start adding tasks!
 
 ## 📸 Preview
